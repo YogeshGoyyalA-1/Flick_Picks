@@ -49,29 +49,29 @@ if st.button('Show Recommendation'):
         if(posters[0]!=1):
             st.image(posters[0])
         else:
-            st.image('/Users/yogeshgoyal/Desktop/Projects/ML/Projects/Flick_Picks/not_found.png')
+            st.image('not_found.png')
     with col2:
         st.text(recommended_movie_names[1])
         if(posters[0]!=1):
             st.image(posters[1])
         else:
-            st.image('/Users/yogeshgoyal/Desktop/Projects/ML/Projects/Flick_Picks/not_found.png')
+            st.image('not_found.png')
     with col3:
         st.text(recommended_movie_names[2])
         if(posters[0]!=1):
             st.image(posters[2])
         else:
-            st.image('/Users/yogeshgoyal/Desktop/Projects/ML/Projects/Flick_Picks/not_found.png')
+            st.image('not_found.png')
     with col4:
         st.text(recommended_movie_names[3])
         if(posters[0]!=1):
             st.image(posters[3])
         else:
-            st.image('/Users/yogeshgoyal/Desktop/Projects/ML/Projects/Flick_Picks/not_found.png')
+            st.image('not_found.png')
     with col5:
         st.text(recommended_movie_names[4])
         if(posters[0]!=1):
             st.image(posters[3])
         else:
-            st.image('/Users/yogeshgoyal/Desktop/Projects/ML/Projects/Flick_Picks/not_found.png')
+            st.image('not_found.png')
         
