@@ -31,4 +31,4 @@ The dataset used for FlickPicks contains movie information, user ratings, and te
 ## Requirements
 The project's dependencies are listed in the `requirements.txt` file. To ensure the correct versions of packages are installed, use the `pip install -r requirements.txt` command as mentioned in the [Installation](#installation) section.
 
-We hope you enjoy your movie discovery journey with FlickPicks! For any feedback or issues, please feel free to reach out. Happy movie watching!
+We hope you enjoy your movie discovery journey with FlickPicks! For any feedback or issues, please feel free to reach out. Happy Movie watching!
