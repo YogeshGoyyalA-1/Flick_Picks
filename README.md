@@ -1,3 +1,7 @@
+
+![Uploading Screenshot 2023-07-26 at 5.19.40 PM.png…]()
+
+
 # FlickPicks - Movie Recommendation System
 
 Welcome to FlickPicks! This project aims to provide users with personalized movie recommendations based on their preferences. Say goodbye to the hassle of searching for the perfect movie - FlickPicks will do it for you!
