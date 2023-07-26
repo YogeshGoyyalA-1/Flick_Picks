@@ -1,5 +1,6 @@
 
-![Uploading Screenshot 2023-07-26 at 5.19.40 PM.png…]()
+![Screenshot 2023-07-26 at 5 19 40 PM](https://github.com/YogeshGoyyalA-1/Flick_Picks/assets/98636214/dd9f6ab0-1d28-4516-87c0-39a9820a0439)
+
 
 
 # FlickPicks - Movie Recommendation System
