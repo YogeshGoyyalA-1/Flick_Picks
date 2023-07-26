@@ -7,7 +7,8 @@ Welcome to FlickPicks! This project aims to provide users with personalized movi
 2. [Installation](#installation)
 3. [Running the Server](#running-the-server)
 4. [Dataset and Data Analysis](#dataset-and-data-analysis)
-5. [Requirements](#requirements)
+5. [Download Similarity Data](#download-similarity-data)
+6. [Requirements](#requirements)
 
 ## Introduction
 FlickPicks is a movie recommendation system designed to enhance your cinematic experience. Our algorithms analyze your movie preferences and generate tailored suggestions to match your taste. It saves you time and effort, ensuring you spend more time enjoying movies and less time searching for them.
@@ -28,7 +29,10 @@ The server will start, and you can access the FlickPicks website through your we
 ## Dataset and Data Analysis
 The dataset used for FlickPicks contains movie information, user ratings, and textual data. We perform exploratory data analysis (EDA) on the dataset to gain insights into movie preferences and user behavior. Natural Language Processing (NLP) techniques are applied to extract important features from the textual data, enabling us to make personalized recommendations based on movie descriptions and reviews.
 
+## Download Similarity Data
+To enhance the recommendation system, we have precomputed similarity data for the movie descriptions. Click [here](https://example.com/similarity.zip) to download the `similarity.zip` file. After downloading, unzip the file and place the contents in the appropriate directory.
+
 ## Requirements
 The project's dependencies are listed in the `requirements.txt` file. To ensure the correct versions of packages are installed, use the `pip install -r requirements.txt` command as mentioned in the [Installation](#installation) section.
 
-We hope you enjoy your movie discovery journey with FlickPicks! For any feedback or issues, please feel free to reach out. Happy Movie watching!
+We hope you enjoy your movie discovery journey with FlickPicks! For any feedback or issues, please feel free to reach out. Happy movie watching!
